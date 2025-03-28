@@ -1,0 +1,190 @@
+{
+    "basics": {
+      "name": "Le Minh Tam",
+      "label": "Finance Business Partner",
+      "image": "https://media.licdn.com/dms/image/v2/D5603AQGPCm_1KLCRtA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720943163807?e=1748476800&v=beta&t=v9G6U8PnmHqR5Bdo4kbs8vLgt_QerBMPTWZAIFVnBUQ",
+      "email": "tamle.fpa@gmail.com",
+      "phone": "0963639979",
+      "url": "www.linkedin.com/in/tamlefpa",
+      "summary": "Results-driven FP&A specialist delivering actionable financial insights that guide strategic decision-making and drive business growth. Skilled in budgeting, forecasting, and financial modeling, transforms complex data into clear, impactful reports. Proficient in Excel with foundational Python and VBA skills for process automation, and a strong communicator in English who effectively conveys critical information to management and leadership.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Ho Chi Minh City",
+        "countryCode": "VN",
+        "region": "District 4"
+      },
+      "profiles": [{
+        "network": "GitHub",
+        "username": "Linked",
+        "url": "https://github.com/gahoccode"
+      }]
+    },
+    "work": [
+      {
+        "name": "Phuong Nam General Hospital",
+        "position": "Finance Specialist",
+        "url": "",
+        "startDate": "2023-08-01",
+        "endDate": "2024-09-01",
+        "summary": "Developed financial models and dashboards to support strategic management and decision-making",
+        "highlights": [
+          "Develop financial models to support strategic management and decision-making",
+          "Build and maintain reporting dashboards to monitor key metrics",
+          "Track financial KPIs and provide forecasts for future performance",
+          "Perform Budget Variance Analysis to identify areas for improvement",
+          "Collaborate with departments to collect financial and business data"
+        ]
+      },
+      {
+        "name": "Mirae Asset Securities",
+        "position": "Stockbroker",
+        "url": "",
+        "startDate": "2018-01-01",
+        "endDate": "2021-12-31",
+        "summary": "Assisted clients with investment needs and opportunities",
+        "highlights": [
+          "Assessed clients' investment needs and risk tolerance",
+          "Assisted clients in identifying investment opportunities"
+        ]
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "University of South Florida",
+        "url": "",
+        "area": "Management",
+        "studyType": "Bachelor of Science",
+        "startDate": "2012-01-01",
+        "endDate": "2015-12-31",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "EF Academy",
+        "url": "",
+        "area": "International Baccalaureate",
+        "studyType": "Diploma",
+        "startDate": "2009-01-01",
+        "endDate": "2011-12-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "certificates": [
+      {
+        "name": "FPAC (Financial Planning & Analysis Certification)",
+        "date": "2025-12-31",
+        "issuer": "AFP (Association for Financial Professionals)",
+        "url": "",
+        "description": "Comprehensive certification covering financial planning, analysis, and strategic business partnering"
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Excel",
+        "level": "Advanced",
+        "keywords": [
+          "Power Query",
+          "Power BI"
+        ]
+      },
+      {
+        "name": "Financial Analysis",
+        "level": "Advanced",
+        "keywords": [
+          "Financial Modeling",
+          "Forecast",
+          "Risk Management",
+          "Budgeting"
+        ]
+      },
+      {
+        "name": "Communication",
+        "level": "Bilingual",
+        "keywords": [
+          "English",
+          "Vietnamese",
+          "Professional Writing"
+        ]
+      },
+      {
+        "name": "Programming Automation",
+        "level": "Foundational",
+        "keywords": [
+          "Visualization",
+          "Data Processing",
+          "SQL",
+          "VBA",
+          "Power Query"
+        ]
+      },
+      {
+        "name": "Financial Accounting",
+        "level": "Familiar",
+        "keywords": [
+          "IFRS",
+          "GAAP",
+          "VAS"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      },
+      {
+        "language": "Vietnamese",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+      {
+        "name": "Hospital Information System (HIS) Implementation",
+        "startDate": "",
+        "endDate": "",
+        "description": "Assisted in User Acceptance Testing (UAT) for HIS financial reporting module",
+        "highlights": [
+          "Role: PMO",
+          "Assisted in User Acceptance Testing (UAT) for HIS financial reporting module"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Reporting Process Automation",
+        "startDate": "",
+        "endDate": "",
+        "description": "Automated reporting processes, saving 50 hours/month",
+        "highlights": [
+          "Automated reporting processes, saving 50 hours/month"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Financial Data Structure Redesign",
+        "startDate": "",
+        "endDate": "",
+        "description": "Redesigned financial data structure, improving collaboration and saving 15 hours/month",
+        "highlights": [
+          "Redesigned financial data structure, improving collaboration and saving 15 hours/month"
+        ],
+        "url": ""
+      },
+      {
+        "name": "KPI Dashboard Development",
+        "startDate": "",
+        "endDate": "",
+        "description": "Developed KPI dashboards contributing to 30% month-over-month revenue growth",
+        "highlights": [
+          "Developed KPI dashboards contributing to 30% month-over-month revenue growth"
+        ],
+        "url": ""
+      }
+    ]
+  }

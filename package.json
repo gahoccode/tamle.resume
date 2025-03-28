@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonresume-theme-kendall": "^0.2.0",
+    "jsonresume-theme-straightforward": "^0.2.0"
+  }
+}

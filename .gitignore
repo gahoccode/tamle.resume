@@ -1,0 +1,53 @@
+# JSON Resume specific
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Generated resume output
+dist/
+public/
+out/
+*.pdf
+*.docx
+*.rtf
+*.txt
+!robots.txt
+
+# Theme development
+themes/*/node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.npm/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*~
+
+# Private information (except main resume)
+private/
+credentials.json
+!resume.json
+!resume2.json
