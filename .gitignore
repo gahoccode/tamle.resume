@@ -14,7 +14,9 @@ out/
 *.rtf
 *.txt
 !robots.txt
-
+resume2.json
+resume.html
+resume.pdf
 # Theme development
 themes/*/node_modules/
 
@@ -50,4 +52,4 @@ logs/
 private/
 credentials.json
 !resume.json
-!resume2.json
+
