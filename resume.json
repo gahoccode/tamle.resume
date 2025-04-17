@@ -23,17 +23,24 @@
     "work": [
       {
         "name": "Phuong Nam General Hospital",
-        "position": "Finance Specialist",
-        "url": "",
+        "position": "FP&A Specialist",
+        "location": "Ho Chi Minh City, Vietnam",
         "startDate": "2023-08-01",
-        "endDate": "2024-09-01",
-        "summary": "Developed financial models and dashboards to support strategic management and decision-making",
+        "endDate": "2024-09-16",
+        "summary": "FP&A Specialist responsible for developing financial models, collaborating across departments, building dashboards, preparing KPI reports, tracking trends, monitoring costs, and preparing ad hoc reports for senior leadership.",
         "highlights": [
-          "Develop financial models to support strategic management and decision-making",
-          "Build and maintain reporting dashboards to monitor key metrics",
-          "Track financial KPIs and provide forecasts for future performance",
-          "Perform Budget Variance Analysis to identify areas for improvement",
-          "Collaborate with departments to collect financial and business data"
+          "Developing financial models to support strategic management and decision-making",
+          "Collaborating with various departments to collect financial and business data",
+          "Building and maintaining reporting dashboards to monitor key metrics and identify abnormalities",
+          "Preparing and distributing KPI reports to management and stakeholders",
+          "Tracking trends and fluctuations in metrics to provide forecasts and predict future performance",
+          "Monitoring and flagging payroll and other operating costs that exceed budget",
+          "Preparing ad hoc reports as requested by senior leadership (CFO, board members, shareholders)",
+          "Notable Achievements:",
+          "Automated financial and operational reports, reducing preparation time by 50 hours per month",
+          "Redesigned and mapped the financial data structure for efficient team collaboration, saving 15 hours of rework monthly",
+          "Developed a KPI dashboard and established performance goals based on financial models and forecasts",
+          "Contributed to 30% month-over-month revenue growth through data-driven insights"
         ]
       },
       {
@@ -147,8 +154,6 @@
     "projects": [
       {
         "name": "Hospital Information System (HIS) Implementation",
-        "startDate": "",
-        "endDate": "",
         "description": "Assisted in User Acceptance Testing (UAT) for HIS financial reporting module",
         "highlights": [
           "Role: PMO",
@@ -158,8 +163,6 @@
       },
       {
         "name": "Reporting Process Automation",
-        "startDate": "",
-        "endDate": "",
         "description": "Automated reporting processes, saving 50 hours/month",
         "highlights": [
           "Automated reporting processes, saving 50 hours/month"
@@ -168,8 +171,6 @@
       },
       {
         "name": "Financial Data Structure Redesign",
-        "startDate": "",
-        "endDate": "",
         "description": "Redesigned financial data structure, improving collaboration and saving 15 hours/month",
         "highlights": [
           "Redesigned financial data structure, improving collaboration and saving 15 hours/month"
@@ -178,8 +179,6 @@
       },
       {
         "name": "KPI Dashboard Development",
-        "startDate": "",
-        "endDate": "",
         "description": "Developed KPI dashboards contributing to 30% month-over-month revenue growth",
         "highlights": [
           "Developed KPI dashboards contributing to 30% month-over-month revenue growth"

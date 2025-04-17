@@ -52,4 +52,11 @@ npm install
 4. Export your resume:
 
 ```bash
-resume export resume.pdf --theme path/to/jsonresume-theme-kendall
+resume export resume.pdf --theme straightforward
+resume export resume.pdf --theme kendall
+```
+
+---
+
+For more detailed documentation and advanced usage, see the official docs:
+[JSON Resume Getting Started](https://jsonresume.org/getting-started)
