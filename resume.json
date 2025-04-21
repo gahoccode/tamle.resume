@@ -34,7 +34,22 @@
           "Prepared KPI reports and set KPIs for Sales Team and Doctors",
           "Collaborated with marketing to track revenue and campaign effectiveness",
           "Implemented the Balanced Scorecard framework to align departmental objectives with organizational strategy",
-          "Contributed to 30% month-over-month revenue growth through data-driven insights"
+          "Contributed to 30% month-over-month revenue growth through data-driven insights",
+          "Collaborated with internal teams to collect business and financial data, and partnered with external stakeholders—including private equity shareholders—to provide financial information and address inquiries regarding financial performance"
+        ]
+      },
+      {
+        "name": "Technical Department, Ho Chi Minh City Public Lighting, JSC",
+        "position": "Technical Department Project Coordinator",
+        "location": "Ho Chi Minh City, Vietnam",
+        "startDate": "2020-01-01",
+        "endDate": "2023-12-31",
+        "highlights": [
+          "Reviewed compensation estimates for public infrastructure damaged due to traffic accidents or theft within the city.",
+          "Interpreted and coordinated technical communication with foreign experts on public lighting construction projects.",
+          "Collaborated with stakeholders, including personnel from the Department of Foreign Affairs, to support project coordination, funding, and execution.",
+          "Prepared comprehensive tender documents and supporting materials to secure construction contracts.",
+          "Provided administrative support related to human resources within the department."
         ]
       },
       {
@@ -51,6 +66,48 @@
           "Assessed clients’ investment needs and risk appetites to address issues like capital allocation and holding periods.",
           "Assisted clients in identifying investment opportunities and recognizing market risks in various economic phases.",
           "Created market bulletins, industry analysis reports, and provided forecasts."
+        ]
+      },
+      {
+        "name": "AMIGOS MEDIA & ENTERTAINMENT, LLC",
+        "position": "Co-Founder",
+        "location": "Ho Chi Minh City, Vietnam",
+        "url": "https://vimeo.com/amigospicture",
+        "startDate": "2017-01-01",
+        "endDate": "2020-12-31",
+        "highlights": [
+          "Cultivated and maintained strong relationships with clients and strategic partners.",
+          "Led service presentations and negotiated project terms to secure new business opportunities.",
+          "Ensured project outcomes aligned with client objectives and brand direction.",
+          "Directed the creative vision for projects, guiding teams in delivering high-quality, impactful content.",
+          "Proactively researched and applied innovative storytelling techniques and emerging media technologies.",
+          "Oversaw budgeting, revenue generation, and cost control to maintain financial sustainability.",
+          "Identified opportunities to improve operational efficiency and resource allocation."
+        ]
+      },
+      {
+        "name": "Sao Mai Electricity, JSC",
+        "position": "Administrative and HR Assistant",
+        "location": "Vietnam",
+        "startDate": "2016-01-01",
+        "endDate": "2017-12-31",
+        "highlights": [
+          "Supported HR operations by managing employee records, onboarding procedures, and compliance documentation.",
+          "Oversaw attendance tracking, ensuring accurate reporting for payroll processing.",
+          "Assisted in payroll administration, verifying work hours, deductions, and salary disbursements.",
+          "Assisted in recruitment activities such as screening resumes and scheduling interviews.",
+          "Assisted in implementing new ERP applications in the enterprise."
+        ]
+      },
+      {
+        "name": "Sao Mai Electricity, JSC",
+        "position": "Bilingual Training Coordinator – Electrical Systems & HR Development Support",
+        "location": "Vietnam",
+        "startDate": "2016-01-01",
+        "endDate": "2017-12-31",
+        "highlights": [
+          "Supported delivery of technical training programs in collaboration with foreign experts.",
+          "Provided interpretation and contributed to localization of training materials for power sector staff."
         ]
       }
     ],
@@ -154,8 +211,7 @@
         "name": "Hospital Information System (HIS) Implementation",
         "description": "Assisted in User Acceptance Testing (UAT) for HIS financial reporting module",
         "highlights": [
-          "Role: PMO",
-          "Assisted in User Acceptance Testing (UAT) for HIS financial reporting module"
+          "Tested the HIS financial reporting module as a member of the PMO team to ensure it met requirements for sales revenue reports, including departmental breakdowns and KPI/management reporting metrics."
         ],
         "url": ""
       },
@@ -163,15 +219,23 @@
         "name": "Reporting Process Automation",
         "description": "Automated reporting processes, saving 50 hours/month",
         "highlights": [
-          "Automated reporting processes, saving 50 hours/month"
+          "Leveraged Python, VBA, and AI-based automation to streamline reporting processes, resulting in a monthly time savings of 50 hours"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Python-Based AI Financial Dashboard",
+        "description": "Developed a Python-based web dashboard leveraging AI to monitor price trends in stocks, commodities, and key financial indicators, supporting market analysis and informed investment decisions",
+        "highlights": [
+          "Developed a Python-based web dashboard leveraging AI to monitor price trends in stocks, commodities, and key financial indicators, supporting market analysis and informed investment decisions"
         ],
         "url": ""
       },
       {
         "name": "Financial Data Structure Redesign",
-        "description": "Redesigned financial data structure, improving collaboration and saving 15 hours/month",
+        "description": "Redesigned financial data structure by reorganizing chart of accounts based on Group's guidelines, improving collaboration and saving 15 hours/month",
         "highlights": [
-          "Redesigned financial data structure, improving collaboration and saving 15 hours/month"
+          "Adapted and reorganized the chart of accounts to comply with Group standards while addressing the specific operational needs of the branch, reducing month-end closing rework by 15 hours per month."
         ],
         "url": ""
       },
@@ -179,7 +243,16 @@
         "name": "KPI Dashboard Development",
         "description": "Developed KPI dashboards contributing to 30% month-over-month revenue growth",
         "highlights": [
-          "Developed KPI dashboards contributing to 30% month-over-month revenue growth"
+          "Developed an Excel dashboard to track revenue by department and patient census, contributing to 30% month-over-month revenue growth"
+        ],
+        "url": ""
+      },
+      {
+        "name": "HR Payroll ERP Module Implementation",
+        "description": "Assisted in implementing and troubleshooting the HR module for payroll calculations at Sao Mai Electricity, JSC",
+        "highlights": [
+          "Facilitated collaboration between internal accountants and outsourced developers to resolve system issues and ensure accurate payroll processing",
+          "Supported implementation and testing of new ERP applications related to human resources"
         ],
         "url": ""
       }
