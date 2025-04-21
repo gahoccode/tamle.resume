@@ -42,8 +42,8 @@
         "name": "Technical Department, Ho Chi Minh City Public Lighting, JSC",
         "position": "Technical Department Project Coordinator",
         "location": "Ho Chi Minh City, Vietnam",
-        "startDate": "2020-01-01",
-        "endDate": "2023-12-31",
+        "startDate": "2019-11-01",
+        "endDate": "2023-08-31",
         "highlights": [
           "Reviewed compensation estimates for public infrastructure damaged due to traffic accidents or theft within the city.",
           "Interpreted and coordinated technical communication with foreign experts on public lighting construction projects.",
@@ -56,8 +56,8 @@
         "name": "Mirae Asset Securities",
         "position": "Stockbroker",
         "url": "",
-        "startDate": "2018-01-01",
-        "endDate": "2021-12-31",
+        "startDate": "2018-10-31",
+        "endDate": "2021",
         "summary": "Assisted clients with investment needs and opportunities",
         "highlights": [
           "Assessed clients' investment needs and risk tolerance",
@@ -73,8 +73,8 @@
         "position": "Co-Founder",
         "location": "Ho Chi Minh City, Vietnam",
         "url": "https://vimeo.com/amigospicture",
-        "startDate": "2017-01-01",
-        "endDate": "2020-12-31",
+        "startDate": "2017",
+        "endDate": "2020",
         "highlights": [
           "Cultivated and maintained strong relationships with clients and strategic partners.",
           "Led service presentations and negotiated project terms to secure new business opportunities.",
@@ -89,8 +89,8 @@
         "name": "Sao Mai Electricity, JSC",
         "position": "Administrative and HR Assistant",
         "location": "Vietnam",
-        "startDate": "2016-01-01",
-        "endDate": "2017-12-31",
+        "startDate": "2016",
+        "endDate": "2017",
         "highlights": [
           "Supported HR operations by managing employee records, onboarding procedures, and compliance documentation.",
           "Oversaw attendance tracking, ensuring accurate reporting for payroll processing.",
@@ -103,8 +103,8 @@
         "name": "Sao Mai Electricity, JSC",
         "position": "Bilingual Training Coordinator – Electrical Systems & HR Development Support",
         "location": "Vietnam",
-        "startDate": "2016-01-01",
-        "endDate": "2017-12-31",
+        "startDate": "2016",
+        "endDate": "2017",
         "highlights": [
           "Supported delivery of technical training programs in collaboration with foreign experts.",
           "Provided interpretation and contributed to localization of training materials for power sector staff."
@@ -114,14 +114,24 @@
     "volunteer": [],
     "education": [
       {
+        "institution": "AFP (Association for Financial Professionals)",
+        "area": "Financial Planning & Analysis Certification (FPAC)",
+        "studyType": "Certification",
+        "startDate": "2024-11-15",
+        "endDate": "2025-12-31",
+        "score": "Part 1 Passed",
+        "courses": [],
+        "description": "Comprehensive certification covering financial planning, analysis, and strategic business partnering"
+      },
+      {
         "institution": "University of South Florida",
         "url": "",
         "area": "Management",
         "studyType": "Bachelor of Science",
-        "startDate": "2012-01-01",
+        "startDate": "2012-09-01",
         "endDate": "2015-12-31",
         "score": "",
-        "courses": []
+        "courses": ["Managerial Accounting", "Financial Accounting", "Corporate Finance", "Principles of Marketing", "Strategic Management"]
       },
       {
         "institution": "EF Academy",
