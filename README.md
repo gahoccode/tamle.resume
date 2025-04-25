@@ -1,7 +1,11 @@
 # JSON Resume
 
 ## Usage Commands
+### Install jsonresume
 
+```bash
+npm install -g resume-cli
+```
 ### Export and View Resume
 
 ```bash
