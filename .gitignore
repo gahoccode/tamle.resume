@@ -53,3 +53,6 @@ private/
 credentials.json
 !resume.json
 
+# Windsurf
+*.windsurf
+job_history_timeline.md

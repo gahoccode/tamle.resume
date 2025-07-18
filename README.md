@@ -21,6 +21,20 @@ resume serve --theme kendall
 
 View in Browser: Open http://localhost:4000 in your web browser to see the rendered resume
 
+### Export with Custom Resume Filename
+
+By default, resume-cli looks for a file named `resume.json`. To use a custom filename:
+
+```bash
+# Export using a custom JSON resume file
+resume export output.pdf --theme straightforward --resume custom_resume.json
+
+# Real example using finance resume
+resume export resume_finance_simplified.pdf --theme straightforward --resume resume_finance_simplied.json
+```
+
+This is useful when maintaining multiple versions of your resume (e.g., for different industries or positions).
+
 ### Install Themes
 
 ```bash

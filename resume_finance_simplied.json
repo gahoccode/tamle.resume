@@ -1,0 +1,212 @@
+{
+    "basics": {
+      "name": "Le Minh Tam",
+      "label": "Finance Business Partner",
+      "image": "https://media.licdn.com/dms/image/v2/D5603AQGPCm_1KLCRtA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720943163807?e=1748476800&v=beta&t=v9G6U8PnmHqR5Bdo4kbs8vLgt_QerBMPTWZAIFVnBUQ",
+      "email": "tamle.fpa@gmail.com",
+      "phone": "0963639979",
+      "url": "https://www.linkedin.com/in/tamlefpa",
+      "summary": "Results-driven FP&A specialist delivering actionable financial insights that guide strategic decision-making and drive business growth. Skilled in budgeting, forecasting, and financial modeling, transforms complex data into clear, impactful reports. Proficient in Excel with foundational Python and VBA skills for process automation, and a strong communicator in English who effectively conveys critical information to management and leadership.",
+      "location": {
+        "address": "District 4",
+        "postalCode": "",
+        "city": "Ho Chi Minh City",
+        "countryCode": "VN",
+        "region": "Vietnam"
+      },
+      "profiles": [{
+        "network": "GitHub",
+        "username": "Linked",
+        "url": "https://github.com/gahoccode"
+      }]
+    },
+    "work": [
+      {
+        "name": "Phuong Nam General Hospital",
+        "position": "FP&A Specialist",
+        "url": "https://www.phuongchau.com/benhvienphuongnam/",
+        "location": "Ho Chi Minh City, Vietnam",
+        "startDate": "2023-08-01",
+        "endDate": "2024-09-16",
+        "summary": "FP&A Specialist responsible for developing financial models, collaborating across departments, building dashboards, preparing KPI reports, tracking trends, monitoring costs, and preparing ad hoc reports for senior leadership.",
+        "highlights": [
+          "Developed financial models to support strategic management and decision-making",
+          "Built dashboards and automated reports, saving 50 hours per month",
+          "Prepared KPI reports and set KPIs for Sales Team and Doctors",
+          "Collaborated with marketing to track revenue and campaign effectiveness",
+          "Implemented the Balanced Scorecard framework to align departmental objectives with organizational strategy",
+          "Contributed to 30% month-over-month revenue growth through data-driven insights",
+          "Collaborated with internal teams to collect business and financial data, and partnered with external stakeholders—including private equity shareholders—to provide financial information and address inquiries regarding financial performance"
+        ]
+      },
+      {
+        "name": "Mirae Asset Securities",
+        "position": "Stockbroker",
+        "url": "",
+        "startDate": "2018-10-31",
+        "endDate": "2021",
+        "summary": "Assisted clients with investment needs and opportunities",
+        "highlights": [
+          "Assessed clients' investment needs and risk tolerance",
+          "Assisted clients in identifying investment opportunities",
+          "Searched and developed a system of individual clients.",
+          "Assessed clients' investment needs and risk appetites to address issues like capital allocation and holding periods.",
+          "Assisted clients in identifying investment opportunities and recognizing market risks in various economic phases.",
+          "Created market bulletins, industry analysis reports, and provided forecasts."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Association for Financial Professionals (AFP)",
+        "area": "Financial Planning & Analysis Certification (FPAC)",
+        "studyType": "Certification",
+        "startDate": "2024-11-15",
+        "endDate": "2025-12-31",
+        "score": "Part 1 Passed",
+        "courses": [],
+        "description": "Comprehensive certification covering financial planning, analysis, and strategic business partnering"
+      },
+      {
+        "institution": "University of South Florida",
+        "url": "",
+        "area": "Management",
+        "studyType": "Bachelor of Science",
+        "startDate": "2012-09-01",
+        "endDate": "2015-12-31",
+        "score": "",
+        "courses": ["Managerial Accounting", "Financial Accounting", "Corporate Finance", "Principles of Marketing", "Strategic Management"]
+      },
+      {
+        "institution": "EF Academy",
+        "url": "https://www.efacademy.org/en/new-york/",
+        "area": "International Baccalaureate",
+        "studyType": "Diploma",
+        "startDate": "2009-01-01",
+        "endDate": "2011-12-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "certificates": [
+      {
+        "name": "FPAC (Financial Planning & Analysis Certification)",
+        "date": "2025-12-31",
+        "issuer": "AFP (Association for Financial Professionals)",
+        "url": "",
+        "summary": "Pursuing certification in FP&A",
+        "startDate": "2023-01-01",
+        "endDate": "2025-12-31",
+        "inProgress": "true"
+      },
+      {
+        "name": "CFA Level 1",
+        "date": "2018-01-01",
+        "issuer": "CFA Institute",
+        "url": "",
+        "summary": "Completed the first level of the Chartered Financial Analyst program",
+        "startDate": "2018-01-01",
+        "endDate": "2018-01-01"
+      },
+      {
+        "name": "Business Analysis & Data Visualization with Excel",
+        "date": "2023-03-01",
+        "issuer": "Excel Skills for Business by Macquarie University via Coursera",
+        "url": "https://www.coursera.org/account/accomplishments/verify/D4K2YQ92CTKP",
+        "summary": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Excel",
+        "level": "Advanced",
+        "keywords": [
+          "Power Query",
+          "Power BI"
+        ]
+      },
+      {
+        "name": "Financial Analysis",
+        "level": "Advanced",
+        "keywords": [
+          "Financial Modeling",
+          "Forecast",
+          "Risk Management",
+          "Budgeting"
+        ]
+      },
+      {
+        "name": "Communication",
+        "level": "Bilingual",
+        "keywords": [
+          "English",
+          "Vietnamese",
+          "Professional Writing"
+        ]
+      },
+      {
+        "name": "Programming Automation",
+        "level": "Foundational",
+        "keywords": [
+          "Visualization",
+          "Data Processing",
+          "SQL",
+          "VBA",
+          "Power Query"
+        ]
+      },
+      {
+        "name": "Financial Accounting",
+        "level": "Familiar",
+        "keywords": [
+          "IFRS",
+          "GAAP",
+          "VAS"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      },
+      {
+        "language": "Vietnamese",
+        "fluency": "Native speaker"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hospital Information System (HIS) Implementation",
+        "description": "Assisted in User Acceptance Testing (UAT) for HIS financial reporting module",
+        "highlights": [
+          "Tested the HIS financial reporting module as a member of the PMO team to ensure it met requirements for sales revenue reports, including departmental breakdowns and KPI/management reporting metrics."
+        ],
+        "url": ""
+      },
+      {
+        "name": "Reporting Process Automation",
+        "description": "Automated reporting processes, saving 50 hours/month",
+        "highlights": [
+          "Leveraged Python, VBA, and AI-based automation to streamline reporting processes, resulting in a monthly time savings of 50 hours"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Financial Data Structure Redesign",
+        "description": "Redesigned financial data structure by reorganizing chart of accounts based on Group's guidelines, improving collaboration and saving 15 hours/month",
+        "highlights": [
+          "Adapted and reorganized the chart of accounts to comply with Group standards while addressing the specific operational needs of the branch, reducing month-end closing rework by 15 hours per month."
+        ],
+        "url": ""
+      },
+      {
+        "name": "KPI Dashboard Development",
+        "description": "Developed KPI dashboards contributing to 30% month-over-month revenue growth",
+        "highlights": [
+          "Developed an Excel dashboard to track revenue by department and patient census, contributing to 30% month-over-month revenue growth"
+        ],
+        "url": ""
+      }
+    ]
+  }
