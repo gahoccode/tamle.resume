@@ -1,6 +1,14 @@
 {
+  "name": "tamle-finance-resume",
+  "version": "1.0.0",
+  "description": "Tam Le's Finance Resume",
+  "scripts": {
+    "build": "resume export index.html --theme kendall --resume resume_finance_simplied.json",
+    "export-pdf": "resume export resume_finance.pdf --theme kendall --resume resume_finance_simplied.json"
+  },
   "dependencies": {
     "jsonresume-theme-kendall": "^0.2.0",
-    "jsonresume-theme-straightforward": "^0.2.0"
+    "jsonresume-theme-straightforward": "^0.2.0",
+    "resume-cli": "^3.0.8"
   }
 }
