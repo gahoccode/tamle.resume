@@ -76,5 +76,56 @@ resume export resume.pdf --theme kendall
 
 ---
 
+## Deployment and Domain Configuration
+
+### Netlify Continuous Deployment
+
+This repository is set up for continuous deployment with Netlify. When changes are pushed to the main branch, Netlify automatically:
+1. Pulls the latest code
+2. Installs dependencies
+3. Runs `npm run build` (which exports the resume to HTML)
+4. Deploys the updated site
+
+### Configuring Namecheap DNS for Netlify
+
+To point your Namecheap domain to your Netlify-hosted resume:
+
+1. **Log in to your Namecheap account**
+2. Go to **Domain List** → **Manage** your domain
+3. Select the **Advanced DNS** tab
+
+#### For Root Domain (yourdomain.com)
+
+Add these A Records:
+
+| Type | Host | Value | TTL |
+|------|------|-------|-----|
+| A Record | @ | 75.2.60.5 | Automatic |
+| A Record | @ | 76.76.21.21 | Automatic |
+
+#### For WWW Subdomain (www.yourdomain.com)
+
+Add this CNAME Record:
+
+| Type | Host | Value | TTL |
+|------|------|-------|-----|
+| CNAME Record | www | your-netlify-site-name.netlify.app | Automatic |
+
+> Replace `your-netlify-site-name` with your actual Netlify site name (e.g., tam-le-finance-resume-fzfpp)
+
+#### For Custom Subdomain (optional, e.g., resume.yourdomain.com)
+
+| Type | Host | Value | TTL |
+|------|------|-------|-----|
+| CNAME Record | resume | your-netlify-site-name.netlify.app | Automatic |
+
+### Important Notes
+
+- DNS changes may take 24-48 hours to fully propagate
+- Remove any conflicting DNS records before adding new ones
+- Netlify automatically handles SSL/HTTPS certificates
+- Verify DNS configuration in Netlify under Domain Management
+
 For more detailed documentation and advanced usage, see the official docs:
 [JSON Resume Getting Started](https://jsonresume.org/getting-started)
+[Netlify Custom Domains](https://docs.netlify.com/domains-https/custom-domains/)
