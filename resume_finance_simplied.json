@@ -31,14 +31,20 @@
         "summary": "FP&A Specialist responsible for developing financial models, collaborating across departments, building dashboards, preparing KPI reports, tracking trends, monitoring costs, and preparing ad hoc reports for senior leadership.",
         "highlights": [
           "Developed financial models to support strategic management and decision-making",
+          "Performed analysis of compensation structures through collaboration with branch and Group accountants to enhance operational efficiency and delivered headcount utilization metrics to Human Resources",
           "Built dashboards and automated reports, saving 50 hours per month",
+          "Performed data analysis (data extraction, cleaning, visualization and analysis) on patient census",
+          "Monitored cash flow and revenue trend analysis",
           "Prepared KPI reports and set KPIs for Sales Team and Doctors",
-          "Collaborated with marketing to track revenue and campaign effectiveness",
+          "Optimized working capital by reviewing and negotiating payment terms with physicians",
+          "Created comprehensive annual budget plans, conducted monthly variance analysis, and implemented corrective actions to maintain financial targets",
+          "Ensured financial operations adhered to relevant regulations and accounting standards, maintaining compliance with VAS requirements and Group's guidelines",
+          "Coordinated with marketing to track revenue and campaign effectiveness",
           "Implemented the Balanced Scorecard framework to align departmental objectives with organizational strategy",
           "Contributed to 30% month-over-month revenue growth through data-driven insights",
           "Provided ad hoc financial analysis and reporting to senior leadership and supported administrative tasks for bank loan applications",
           "Collaborated with internal teams to collect business and financial data", 
-          "Partnered with external stakeholders—including private equity shareholders—to provide financial information and address inquiries regarding financial performance"
+          "Partnered with external stakeholders, including private equity shareholders and venture capital firms, to provide financial information and address inquiries regarding financial performance following M&A transactions"
         ]
       },
       {
@@ -207,6 +213,16 @@
         "description": "Developed KPI dashboards contributing to 30% month-over-month revenue growth",
         "highlights": [
           "Developed an Excel dashboard to track revenue by department and patient census, contributing to 30% month-over-month revenue growth"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Working Capital Optimization Initiative",
+        "description": "Led cross-departmental initiative to optimize physician payment structures resulting in significant cost savings",
+        "highlights": [
+          "Conducted comprehensive working capital assessment through collaboration with finance, sales, and medical teams",
+          "Developed scenario-based financial models to successfully restructured physician payment terms, resulting in 500 million VND annual cost savings",
+          "Developed an interactive Excel dashboard to provide visual insights into payroll structure and salary distribution, enhancing compensation planning and cost control"
         ],
         "url": ""
       }
